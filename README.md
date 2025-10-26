@@ -1,7 +1,7 @@
 <!-- Ajay Shinde - GitHub Profile README -->
 
 <p align="center">
-  <img src="header.png" width="100%">
+  <img src="header_v2.png" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Ajay Ashok Shinde</h1>
