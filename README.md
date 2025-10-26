@@ -1,5 +1,9 @@
 <!-- Ajay Shinde - GitHub Profile README -->
 
+<p align="center">
+  <img src="header.png" width="100%">
+</p>
+
 <h1 align="center">👋 Hi, I'm Ajay Ashok Shinde</h1>
 <h3 align="center">🚀 Data Engineer | M.S. Information Systems @ Syracuse University</h3>
 
