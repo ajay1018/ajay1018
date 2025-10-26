@@ -3,6 +3,7 @@
 <p align="center">
   <img src="header_v2.png" width="100%">
 </p>
+<!-- Ajay Shinde - GitHub Profile README -->
 
 <h1 align="center">👋 Hi, I'm Ajay Ashok Shinde</h1>
 <h3 align="center">🚀 Data Engineer | M.S. Information Systems @ Syracuse University</h3>
@@ -31,9 +32,9 @@
 | Project | Description | Stack |
 |----------|--------------|--------|
 | 🏥 **[Patient Outcome Analytics Pipeline](https://github.com/ajay1018/patient-outcome-analytics-pipeline)** | Automated EHR ingestion (FHIR/HL7) with Airflow + Snowflake + dbt + Power BI → reduced manual work by 65%. | Airflow • Snowflake • dbt • Power BI |
-| 💳 **[Real-Time Fraud & Compliance Pipeline](https://github.com/ajay1018/fraud-compliance-pipeline)** | Kafka + Spark + Snowflake streaming for financial reconciliation → cut false positives by 40%. | Kafka • Spark • Databricks • Snowflake |
-| 🛍️ **[Customer Analytics & Recommendation Platform](https://github.com/ajay1018/customer-analytics-platform)** | Airflow + Redshift + Streamlit + dbt pipelines for CLTV analysis → 75% faster updates. | Airflow • Redshift • dbt • Streamlit |
-| 🧰 **[File Organizer CLI](https://github.com/ajay1018/file-organizer-cli)** | Python CLI tool that auto-organizes files by type/date; includes CI/CD & linting. | Python • Click • GitHub Actions |
+| 💳 **[Real-Time Fraud & Compliance Pipeline](https://github.com/ajay1018/real-time-fraud-compliance-pipeline)** | Kafka + Spark + Snowflake streaming for financial reconciliation → cut false positives by 40%. | Kafka • Spark • Databricks • Snowflake |
+| 🛍️ **[Customer Analytics & Recommendation Platform](https://github.com/ajay1018/customer-analytics-recommendation-platform)** | Airflow + Redshift + Streamlit + dbt pipelines for CLTV analysis → 75% faster updates. | Airflow • Redshift • dbt • Streamlit |
+
 
 ---
 
